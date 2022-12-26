@@ -1,0 +1,41 @@
+
+0
+java:S1220""Move this file to a named package.
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¥æ×½
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜ôËšıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(šôœŸ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯Áß¹şÿÿÿÿ
+A
+java:S14522"&Remove usage of generic wildcard type.(éÉ¥Ïşÿÿÿÿ
+i
+java:S6204ƒ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+_
+java:S5361‚"HReplace this call to "replaceAll()" by a call to the "replace()" method.(‚›Æ†
+\
+java:S2147"ECombine this catch with the one at line 155, which has the same body.(ä ¹€
+u
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Q
+java:S2479±":Remove the non-escaped \u0009 character from this literal.(…Óµ•
+D
+java:S5665´"(Remove this unnecessary escape sequence.(šõ˜œùÿÿÿÿ
+D
+java:S5665µ"(Remove this unnecessary escape sequence.(÷ü¡÷úÿÿÿÿ
+D
+java:S5665¶"(Remove this unnecessary escape sequence.(È”êÿÿÿÿÿ
+>
+java:S5665·"(Remove this unnecessary escape sequence.(­›
+Q
+java:S2479¿":Remove the non-escaped \u0009 character from this literal.(…Óµ•
+?
+java:S5665À"(Remove this unnecessary escape sequence.(×‡®À
+D
+java:S5665Á"(Remove this unnecessary escape sequence.(ïÍ ‡üÿÿÿÿ
+?
+java:S5665Â"(Remove this unnecessary escape sequence.(ÏÃù†
+?
+java:S5665Ã"(Remove this unnecessary escape sequence.(¢Û½È
+?
+java:S5665Ä"(Remove this unnecessary escape sequence.(¥Å™ó
+Q
+java:S2479Í":Remove the non-escaped \u0009 character from this literal.(…Óµ•
